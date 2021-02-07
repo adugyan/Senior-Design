@@ -1,7 +1,8 @@
 # Senior-Design
-Repo for the collection of software and documention for Senior Design
 
-## Directory Structure Explained
+### Introduction
+
+Repo for the collection of software and documention for Senior Design.
 
 `doc`
 
@@ -22,3 +23,28 @@ Holds the source code for the project
 `test`
 
 For unit tests, test cases... pretty much tests of any kind.
+
+
+### Overview
+
+TODO
+
+### Tech Stack
+
+The tech stack I used included:
+
+* **python** to create the scripts
+
+TODO
+
+Getting Started
+---
+### Pre-requisites and Local Development
+
+Authors
+---
+Kofi Adu-Gyan, Nathan Tom, Nathan Moser, Haley Hoppe
+
+Acknowledgements
+---
+Dr. Mike Papka, Dr. Hill
