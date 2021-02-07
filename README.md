@@ -1,14 +1,42 @@
 # Senior-Design
-Repo for the collection of software and documention for Senior Design
 
-## Directory Structure Explained
+### Introduction
+
+Repo for the collection of software and documention for Senior Design.
+
+### Overview
 
 `doc`
+Documentation of any kind
 
-### lib 
+`lib`
+A collection of common files, utility classes, or imported dependencies needed for the program to run
 
-### res
+`res`
+Static or dynamic resources such as images, additional texts, etc.
 
-### src
+`src`
+Holds the source code for the project
 
-### test
+`test`
+For unit tests, test cases... pretty much tests of any kind.
+
+### Tech Stack
+
+The tech stack I used included:
+
+* **python** to create the scripts
+
+TODO
+
+Getting Started
+---
+### Pre-requisites and Local Development
+
+Authors
+---
+Kofi Adu-Gyan, Nathan Tom, Nathan Moser, Haley Hoppe
+
+Acknowledgements
+---
+Dr. Mike Papka, Dr. Hill
