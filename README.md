@@ -4,6 +4,8 @@
 
 Repo for the collection of software and documention for Senior Design.
 
+### Overview
+
 `doc`
 Documentation of any kind
 
@@ -18,11 +20,6 @@ Holds the source code for the project
 
 `test`
 For unit tests, test cases... pretty much tests of any kind.
-
-
-### Overview
-
-TODO
 
 ### Tech Stack
 
