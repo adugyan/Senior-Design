@@ -3,7 +3,7 @@ Repo for the collection of software and documention for Senior Design
 
 ## Directory Structure Explained
 
-### doc
+`doc`
 
 ### lib 
 
