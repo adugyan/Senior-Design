@@ -1,1 +1,1 @@
-Collecion of source files
+Collection of source files
