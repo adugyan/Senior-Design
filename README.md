@@ -1,4 +1,4 @@
-# Senior-Design
+# Integrated Wearable Feedback Device for Human Walking 
 
 ### Introduction
 
